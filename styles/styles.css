@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 
-html, body {
-  height: 100%
+body {
+  min-height: 100vh;
 }
 
 * {
