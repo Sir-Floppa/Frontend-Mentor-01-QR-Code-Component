@@ -20,10 +20,6 @@ body {
   justify-content: center;
 }
 
-.attribution {
-  justify-self: flex-end;
-}
-
 .card {
   width: 340px;
   background-color: white;
