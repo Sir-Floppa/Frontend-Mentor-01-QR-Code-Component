@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
 
 body {
   min-height: 100vh;
@@ -11,7 +11,6 @@ body {
   box-sizing: border-box;
 }
 
-
 body {
   background-color: hsl(212, 45%, 89%);
   display: flex;
@@ -21,32 +20,32 @@ body {
 }
 
 main {
-  max-width: 340px;
+  max-width: 21.25rem;
   background-color: white;
-  padding: 16px;
-  border-radius: 24px;
-  box-shadow: 0 0 32px hsla(219, 15%, 55%, 0.342);
-  padding-bottom: 24px;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 0 2rem hsla(219, 15%, 55%, 0.342);
+  padding-bottom: 1.5rem;
 }
 
 main * {
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
 }
 
 main p {
-  font-size: 15px;
+  font-size: 0.9375rem;
   color: hsl(220, 15%, 55%);
-  margin-left: 24px;
-  margin-right: 24px;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
 }
 
 h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 26px;
+  font-size: 1.625rem;
   font-weight: bold;
 }
 
 #QRCode {
-  border-radius: 12px;
+  border-radius: 0.75rem;
   max-width: 100%;
 }
